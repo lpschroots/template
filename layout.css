@@ -1,0 +1,56 @@
+body{
+	background-image: url(https://www.clipartsgram.com/image/1815377892-indie-tarot-website-background2.jpg);
+	background-repeat: no-repeat;
+	background-size: 2000px 3000px;
+}
+
+.main{
+	position: relative;
+	width: 100%;
+	display: flex;
+	flex-flow: row;
+	justify-content: center;
+}
+
+.flex-container{
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 30%;
+}
+
+nav{
+	margin-left: 50px;
+}
+
+.image{
+	position: relative;
+	width: 70px;
+	margin-left: -3px;
+}
+
+.contact{
+	font-weight: bold;
+}
+
+#home{
+	opacity: 1;
+	margin-left: 21px;
+}
+
+#image{
+	width: 70px;
+	margin-left: 5px;
+}
+
+a{
+	text-decoration: none;
+	font-size: 20px;
+	font-family: sans-serif;
+	font-weight: bold;
+	color: black;
+}
+
+aside{
+	position: absolute;
+	font-size: 25px;
+}
