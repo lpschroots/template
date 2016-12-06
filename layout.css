@@ -2,30 +2,34 @@ body{
 	background-image: url(https://www.clipartsgram.com/image/1815377892-indie-tarot-website-background2.jpg);
 	background-repeat: no-repeat;
 	background-size: 2000px 3000px;
+	font-family: sans-serif;
 }
 
-.main{
+main{
 	position: relative;
 	width: 100%;
 	display: flex;
 	flex-flow: row;
 	justify-content: center;
+	font-family: sans-serif;
 }
 
 .flex-container{
 	position: absolute;
-	margin-top: 200px;
-	margin-left: 30%;
+	margin-top: 100px;
+	margin-left: 32%;
+	font-family: sans-serif;
 }
 
 nav{
 	margin-left: 50px;
+	font-family: sans-serif;
 }
 
 .image{
 	position: relative;
-	width: 70px;
-	margin-left: -3px;
+	width: 80px;
+	margin-left: -5px;
 }
 
 .contact{
@@ -35,20 +39,17 @@ nav{
 .contact1{
 	color: black;
 	font-style: italic;
-}
-
-#contact1{
-	color: black;
-	font-weight: normal;
+	font-family: sans-serif;
 }
 
 #home{
 	opacity: 1;
+	width: 80px;
 	margin-left: 21px;
 }
 
 #image{
-	width: 70px;
+	width: 80px;
 	margin-left: 5px;
 }
 
